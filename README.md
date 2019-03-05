@@ -102,13 +102,9 @@ This database will allow us to search statistics of players and teams from 2017-
 # References
 #### [tweepy](https://tweepy.readthedocs.io/)
 #### [Twitter Developer](https://developer.twitter.com/en/docs)
-#### [Twitter Developer Doc](https://developer.twitter.com/en/docs)
-[Tweet Management](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object.html)<br/>
-[List Management](https://developer.twitter.com/en/docs/accounts-and-users/create-manage-lists/api-reference/get-lists-members)<br/>
-[Timeline](https://developer.twitter.com/en/docs/tweets/timelines/overview)<br/>
+#### [Twitter Developer Doc](https://developer.twitter.com/en/docs)<br/>
 #### [MySQL](https://dev.mysql.com/doc/refman/8.0/en/load-data.html)
-#### Python tutorial
-Python Tutorial from : [Link](https://www.w3schools.com/python/python_operators.asp)<br/>
+#### Python tutorial(https://www.w3schools.com/python/python_operators.asp)<br/>
 #### 2017-2018 NBA Regular Season Statsa[RealGM](https://basketball.realgm.com/nba/stats/2018/Averages/All/points/All/desc/1/Regular_Season).
 #### Web API from FantasyData
 
