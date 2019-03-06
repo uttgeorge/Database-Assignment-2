@@ -56,13 +56,13 @@ This database will allow us to search statistics of players and teams from 2017-
 
     3. *When should you use an entity or relationship, and placement of attributes? (Example: a
         manager could be modeled as either)*<br/>
-        >???
+        >When data do not have uniform attributes, or have different numbers, hashtags for example, each tweet may has or has no hashtags, and number of hashtags may change, we should use entity. Otherwise, it is better to use attibutes.
 
     4. *How did you choose your keys? Which are unique?*<br/>
         >Primary keys should be unique. For example, in Tweets table, IDs are unique.
 
     5. *Did you model hierarchies using the “ISA” design element? Why or why not?*<br/>
-        >Yes, for twitter account, i create a table called nba_twitter_account to store all accounts, and another table called nba_twitter to store all tweets. Using the "ISA" design can build a one to many relationship so that saving the space in database, and also making the database more easy to search.
+        >Yes, for twitter account, i create a table called nba_twitter_account to store all accounts, and another table called nba_twitter to store all tweets. Using the "ISA" design can build a one to many relationship so that enhancing the performance of the database, and also making the database more easy to search.
 
     6. *Were there design alternatives? What are their trade-offs: entity vs. attribute, entity vs.
         relationship, binary vs. ternary relationships?*<br/>
